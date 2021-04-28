@@ -7,7 +7,7 @@
     "dev": "nodemon ./index.js",
     "start": "node ./index.js"
   },
-  "author": "Juan De la torre",
+  "author": "Santiago",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
